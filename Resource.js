@@ -1,3 +1,5 @@
+import { Service } from "./Service.js";
+
 class Resource {
   constructor(name, capacity, services) {
     this.name = name;
